@@ -1,0 +1,32 @@
+_repo: Social-life-at-Rome-in-the-Age-of-Cicero_11256
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fowler, W. Warde (William Warde)
+    aliases:
+    - Fowler, Warde
+    - Fowler, William Warde
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '3907'
+    url: http://www.gutenberg.org/2009/agents/3907
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DG'
+- !lcsh 'Rome -- Social life and customs'
+- GITenberg
+tableOfContents: Topographical -- The lower population -- The men of business and
+  their methods -- The governing aristocracy -- Marriage and the Roman lady -- The
+  education of the upper classes -- The slave population -- The house of the rich
+  man in town and country -- The daily life of the well-to-do -- Holidays and public
+  amusements -- Religion.
+title: Social life at Rome in the Age of Cicero
+url: http://www.gutenberg.org/ebooks/11256
